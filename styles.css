@@ -759,6 +759,12 @@ img { display: block; max-width: 100%; }
     padding: 7rem 0;
     background: var(--bg);
 }
+.edu-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
 .edu-card {
     display: flex;
     gap: 2rem;
